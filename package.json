@@ -1,0 +1,56 @@
+{
+  "name": "tlglupproject",
+  "version": "0.0.1",
+  "description": "gulp进阶构建项目由浅入深",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iWebHome/TLGlupProject.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "leechuanjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iWebHome/TLGlupProject/issues"
+  },
+  "homepage": "https://github.com/iWebHome/TLGlupProject#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "browserify": "^15.2.0",
+    "event-stream": "^3.3.4",
+    "glob": "^7.1.2",
+    "gulp-buffer": "0.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.2.0",
+    "gulp-gzip": "^1.4.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^3.4.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-marked": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.12.1",
+    "gulp-str-replace": "0.0.4",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.0",
+    "gulp-wrap": "^0.13.0",
+    "lodash.assign": "^4.2.0",
+    "node-glob": "^1.2.0",
+    "node-sass": "^4.7.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.9.0"
+  }
+}
